@@ -369,7 +369,7 @@ img {
     transition: 0.4s;
 }
 
-.produtores .produtores:hover {
+.produtores:hover {
     transform: scale(1.5);
 }
 
